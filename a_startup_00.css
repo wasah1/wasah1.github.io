@@ -1,0 +1,313 @@
+.mediaViewInfo {
+	--web-view-name: a_startup_00;
+	--web-view-id: a_startup_00;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: a_startup_00;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#a_startup_00 {
+	position: absolute;
+	width: 1920px;
+	height: 1402px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: a_startup_00;
+	--web-view-id: a_startup_00;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+#Rectangle_ddl {
+	fill: rgba(240,240,240,1);
+	stroke: rgba(247,247,247,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_ddl {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1315px;
+	left: 0px;
+	top: 87px;
+}
+#Group_ddm {
+	position: absolute;
+	width: 1920px;
+	height: 87px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+#Rectangle_ddn {
+	fill: rgba(220,106,154,1);
+	stroke: rgba(220,106,154,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_ddn {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 87px;
+	left: 0px;
+	top: 0px;
+}
+#Raspberry_Pi_Cooks_Mission_ddo {
+	left: 663px;
+	top: 23px;
+	position: absolute;
+	overflow: visible;
+	width: 596px;
+	height: 42px;
+	text-align: left;
+	font-family: UD Digi Kyokasho NP-B;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	color: rgba(255,255,255,1);
+}
+#n_53_ddp {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(220,106,154,1);
+	stroke-width: 16px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_53_ddp {
+	position: absolute;
+	overflow: visible;
+	width: 1500px;
+	height: 826px;
+	left: 210px;
+	top: 216px;
+}
+#n_54_ddq {
+	fill: rgba(220,106,154,1);
+	stroke: rgba(220,106,154,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_54_ddq {
+	position: absolute;
+	overflow: visible;
+	width: 300px;
+	height: 70px;
+	left: 210px;
+	top: 147px;
+}
+#Text_ddr {
+	left: 225px;
+	top: 173px;
+	position: absolute;
+	overflow: visible;
+	width: 248px;
+	height: 34px;
+	text-align: left;
+	font-family: UD Digi Kyokasho NP-B;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(48,48,48,1);
+}
+#n__Raspberry_PiOSSD__Wi-Fi_OSN {
+	left: 464px;
+	top: 398px;
+	position: absolute;
+	overflow: visible;
+	width: 994px;
+	height: 346px;
+	text-align: left;
+	font-family: Yu Gothic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(25,25,25,1);
+}
+#Text_ddt {
+	left: 464px;
+	top: 299px;
+	position: absolute;
+	overflow: visible;
+	width: 358px;
+	height: 39px;
+	text-align: left;
+	font-family: Yu Gothic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(25,25,25,1);
+}
+#n_93_ddu {
+	position: absolute;
+	width: 899px;
+	height: 88px;
+	left: 511px;
+	top: 744px;
+	overflow: visible;
+}
+#n_80_ddv {
+	fill: rgba(220,106,154,1);
+}
+.n_80_ddv {
+	position: absolute;
+	overflow: visible;
+	width: 257px;
+	height: 88px;
+	left: 0px;
+	top: 0px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: a_startup_01.html;
+	cursor: pointer;
+}
+#n_81_ddw {
+	fill: rgba(220,106,154,1);
+}
+.n_81_ddw {
+	position: absolute;
+	overflow: visible;
+	width: 257px;
+	height: 88px;
+	left: 642px;
+	top: 0px;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: a_startup_0c.html;
+	cursor: pointer;
+}
+#Text_ddx {
+	left: 60px;
+	top: 23px;
+	position: absolute;
+	overflow: visible;
+	width: 129px;
+	height: 42px;
+	text-align: left;
+	font-family: Yu Gothic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 32px;
+	color: rgba(255,255,255,1);
+}
+#Mission_Complete_ddy {
+	left: 649px;
+	top: 27px;
+	position: absolute;
+	overflow: visible;
+	width: 244px;
+	height: 35px;
+	text-align: left;
+	font-family: Yu Gothic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 27px;
+	color: rgba(255,255,255,1);
+}
+#n_218_ddz {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	left: 30px;
+	top: 19px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: a_startup_0m.html;
+	cursor: pointer;
+}
+#n_60_dd {
+	fill: rgba(255,255,255,1);
+}
+.n_60_dd {
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+}
+#n_211_dd {
+	position: absolute;
+	width: 15.047px;
+	height: 18.367px;
+	left: 14.953px;
+	top: 15.816px;
+	overflow: visible;
+}
+#n_48_dd {
+	fill: transparent;
+	stroke: rgba(220,106,154,1);
+	stroke-width: 6px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_48_dd {
+	overflow: visible;
+	position: absolute;
+	width: 0px;
+	height: 17.374px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,7.5233,-4.3436) rotate(240deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#n_49_dd {
+	fill: transparent;
+	stroke: rgba(220,106,154,1);
+	stroke-width: 6px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_49_dd {
+	overflow: visible;
+	position: absolute;
+	width: 0px;
+	height: 17.374px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,7.5233,5.3364) rotate(120deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}

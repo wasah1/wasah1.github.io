@@ -1,0 +1,289 @@
+.mediaViewInfo {
+	--web-view-name: a_rpb_01;
+	--web-view-id: a_rpb_01;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: a_rpb_01;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#a_rpb_01 {
+	position: absolute;
+	width: 1920px;
+	height: 1466px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: a_rpb_01;
+	--web-view-id: a_rpb_01;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+#Rectangle_bmg {
+	fill: rgba(240,240,240,1);
+	stroke: rgba(247,247,247,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_bmg {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1379px;
+	left: 0px;
+	top: 87px;
+}
+#Group_bmh {
+	position: absolute;
+	width: 1920px;
+	height: 87px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+#Rectangle_bmi {
+	fill: rgba(220,106,154,1);
+	stroke: rgba(220,106,154,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_bmi {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 87px;
+	left: 0px;
+	top: 0px;
+}
+#Raspberry_Pi_Cooks_Mission_bmj {
+	left: 663px;
+	top: 23px;
+	position: absolute;
+	overflow: visible;
+	width: 596px;
+	height: 42px;
+	text-align: left;
+	font-family: UD Digi Kyokasho NP-B;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	color: rgba(255,255,255,1);
+}
+#n_53_bmk {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(220,106,154,1);
+	stroke-width: 16px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_53_bmk {
+	position: absolute;
+	overflow: visible;
+	width: 1500px;
+	height: 890px;
+	left: 210px;
+	top: 216px;
+}
+#n_54_bml {
+	fill: rgba(220,106,154,1);
+	stroke: rgba(220,106,154,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_54_bml {
+	position: absolute;
+	overflow: visible;
+	width: 300px;
+	height: 70px;
+	left: 210px;
+	top: 147px;
+}
+#Text_bmm {
+	left: 225px;
+	top: 173px;
+	position: absolute;
+	overflow: visible;
+	width: 248px;
+	height: 34px;
+	text-align: left;
+	font-family: UD Digi Kyokasho NP-B;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(48,48,48,1);
+}
+#n______httpssozorablogcomkaika {
+	left: 464px;
+	top: 398px;
+	position: absolute;
+	overflow: visible;
+	width: 994px;
+	height: 410px;
+	text-align: left;
+	font-family: Yu Gothic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(25,25,25,1);
+}
+#Raspberry_Pi_1 {
+	left: 464px;
+	top: 299px;
+	position: absolute;
+	overflow: visible;
+	width: 606px;
+	height: 39px;
+	text-align: left;
+	font-family: Yu Gothic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(25,25,25,1);
+}
+#n_131 {
+	position: absolute;
+	width: 257px;
+	height: 88px;
+	left: 1153px;
+	top: 808px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: a_rpb_0c.html;
+	cursor: pointer;
+	padding: 0px;
+}
+#n_113_bmq {
+	position: absolute;
+	width: 257px;
+	height: 88px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_81_bmr {
+	fill: rgba(220,106,154,1);
+}
+.n_81_bmr {
+	position: absolute;
+	overflow: visible;
+	width: 257px;
+	height: 88px;
+	left: 0px;
+	top: 0px;
+}
+#Mission_Complete_bms {
+	left: 7px;
+	top: 27px;
+	position: absolute;
+	overflow: visible;
+	width: 244px;
+	height: 35px;
+	text-align: left;
+	font-family: Yu Gothic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 27px;
+	color: rgba(255,255,255,1);
+}
+#n_218_bmt {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	left: 30px;
+	top: 19px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: a_rpb_00.html;
+	cursor: pointer;
+}
+#n_60_bmu {
+	fill: rgba(255,255,255,1);
+}
+.n_60_bmu {
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+}
+#n_211_bmv {
+	position: absolute;
+	width: 15.047px;
+	height: 18.367px;
+	left: 14.953px;
+	top: 15.816px;
+	overflow: visible;
+}
+#n_48_bmw {
+	fill: transparent;
+	stroke: rgba(220,106,154,1);
+	stroke-width: 6px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_48_bmw {
+	overflow: visible;
+	position: absolute;
+	width: 0px;
+	height: 17.374px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,7.5233,-4.3436) rotate(240deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#n_49_bmx {
+	fill: transparent;
+	stroke: rgba(220,106,154,1);
+	stroke-width: 6px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_49_bmx {
+	overflow: visible;
+	position: absolute;
+	width: 0px;
+	height: 17.374px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,7.5233,5.3364) rotate(120deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}

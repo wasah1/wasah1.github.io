@@ -1,0 +1,288 @@
+.mediaViewInfo {
+	--web-view-name: a_welcome_01;
+	--web-view-id: a_welcome_01;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+:root {
+	--web-view-ids: a_welcome_01;
+}
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	border: none;
+}
+#a_welcome_01 {
+	position: absolute;
+	width: 1920px;
+	height: 1306px;
+	background-color: rgba(255,255,255,1);
+	overflow: hidden;
+	--web-view-name: a_welcome_01;
+	--web-view-id: a_welcome_01;
+	--web-scale-on-resize: true;
+	--web-enable-deep-linking: true;
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+@keyframes  {
+
+
+}
+#Rectangle_b {
+	fill: rgba(240,240,240,1);
+	stroke: rgba(247,247,247,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_b {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 1219px;
+	left: 0px;
+	top: 87px;
+}
+#Group_bap {
+	position: absolute;
+	width: 1920px;
+	height: 87px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: index.html;
+	cursor: pointer;
+}
+#Rectangle_c {
+	fill: rgba(220,106,154,1);
+	stroke: rgba(220,106,154,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.Rectangle_c {
+	position: absolute;
+	overflow: visible;
+	width: 1920px;
+	height: 87px;
+	left: 0px;
+	top: 0px;
+}
+#Raspberry_Pi_Cooks_Mission_c {
+	left: 663px;
+	top: 23px;
+	position: absolute;
+	overflow: visible;
+	width: 596px;
+	height: 42px;
+	text-align: left;
+	font-family: UD Digi Kyokasho NP-B;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 36px;
+	color: rgba(255,255,255,1);
+}
+#n_53_d {
+	fill: rgba(255,255,255,1);
+	stroke: rgba(220,106,154,1);
+	stroke-width: 16px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_53_d {
+	position: absolute;
+	overflow: visible;
+	width: 1500px;
+	height: 730px;
+	left: 210px;
+	top: 216px;
+}
+#n_54_e {
+	fill: rgba(220,106,154,1);
+	stroke: rgba(220,106,154,1);
+	stroke-width: 1px;
+	stroke-linejoin: miter;
+	stroke-linecap: butt;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_54_e {
+	position: absolute;
+	overflow: visible;
+	width: 300px;
+	height: 70px;
+	left: 210px;
+	top: 147px;
+}
+#Text_g {
+	left: 225px;
+	top: 173px;
+	position: absolute;
+	overflow: visible;
+	width: 248px;
+	height: 34px;
+	text-align: left;
+	font-family: UD Digi Kyokasho NP-B;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(48,48,48,1);
+}
+#Raspberry_Pi__URLhttpswwwraspb {
+	left: 464px;
+	top: 398px;
+	position: absolute;
+	overflow: visible;
+	width: 994px;
+	height: 250px;
+	text-align: left;
+	font-family: Yu Gothic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 20px;
+	color: rgba(25,25,25,1);
+}
+#n_1_h {
+	left: 464px;
+	top: 299px;
+	position: absolute;
+	overflow: visible;
+	width: 358px;
+	height: 39px;
+	text-align: left;
+	font-family: Yu Gothic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 30px;
+	color: rgba(25,25,25,1);
+}
+#n_129 {
+	position: absolute;
+	width: 257px;
+	height: 88px;
+	left: 1153px;
+	top: 648px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: a_welcome_0c.html;
+	cursor: pointer;
+}
+#n_124_j {
+	position: absolute;
+	width: 257px;
+	height: 88px;
+	left: 0px;
+	top: 0px;
+	overflow: visible;
+}
+#n_81_k {
+	fill: rgba(220,106,154,1);
+}
+.n_81_k {
+	position: absolute;
+	overflow: visible;
+	width: 257px;
+	height: 88px;
+	left: 0px;
+	top: 0px;
+}
+#Mission_Complete_l {
+	left: 7px;
+	top: 27px;
+	position: absolute;
+	overflow: visible;
+	width: 244px;
+	height: 35px;
+	text-align: left;
+	font-family: Yu Gothic;
+	font-style: normal;
+	font-weight: bold;
+	font-size: 27px;
+	color: rgba(255,255,255,1);
+}
+#n_218_m {
+	position: absolute;
+	width: 50px;
+	height: 50px;
+	left: 30px;
+	top: 19px;
+	overflow: visible;
+	--web-animation: fadein undefineds undefined;
+	--web-action-type: page;
+	--web-action-target: a_welcome_00.html;
+	cursor: pointer;
+}
+#n_60_n {
+	fill: rgba(255,255,255,1);
+}
+.n_60_n {
+	position: absolute;
+	overflow: visible;
+	width: 50px;
+	height: 50px;
+	left: 0px;
+	top: 0px;
+}
+#n_211_o {
+	position: absolute;
+	width: 15.047px;
+	height: 18.367px;
+	left: 14.953px;
+	top: 15.816px;
+	overflow: visible;
+}
+#n_48_p {
+	fill: transparent;
+	stroke: rgba(220,106,154,1);
+	stroke-width: 6px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_48_p {
+	overflow: visible;
+	position: absolute;
+	width: 0px;
+	height: 17.374px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,7.5233,-4.3436) rotate(240deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
+#n_49_q {
+	fill: transparent;
+	stroke: rgba(220,106,154,1);
+	stroke-width: 6px;
+	stroke-linejoin: miter;
+	stroke-linecap: round;
+	stroke-miterlimit: 4;
+	shape-rendering: auto;
+}
+.n_49_q {
+	overflow: visible;
+	position: absolute;
+	width: 0px;
+	height: 17.374px;
+	transform: translate(0px, 0px) matrix(1,0,0,1,7.5233,5.3364) rotate(120deg);
+	transform-origin: center;
+	left: 0px;
+	top: 0px;
+}
